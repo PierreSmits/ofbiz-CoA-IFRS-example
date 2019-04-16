@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entity-engine-xml>
+<GlAccount glAccountId="1" parentGlAccountId="" accountCode="1" glResourceTypeId="MONEY" accountName="Assets" description="Assets" Balance="Dr" />
+<GlAccount glAccountId="1.1" parentGlAccountId="1" accountCode="1.1" glResourceTypeId="MONEY" accountName="Property, Plant And Equipment" description="Property, Plant And Equipment" Balance="Dr" />
+<GlAccount glAccountId="1.1.1" parentGlAccountId="1.1" accountCode="1.1.1" glResourceTypeId="MONEY" accountName="Land And Buildings" description="Land And Buildings" Balance="Dr" />
+<GlAccount glAccountId="1.1.2" parentGlAccountId="1.1" accountCode="1.1.2" glResourceTypeId="MONEY" accountName="Machinery And Equipment" description="Machinery And Equipment" Balance="Dr" />
+<GlAccount glAccountId="1.1.3" parentGlAccountId="1.1" accountCode="1.1.3" glResourceTypeId="MONEY" accountName="Vehicles" description="Vehicles" Balance="Dr" />
+<GlAccount glAccountId="1.1.4" parentGlAccountId="1.1" accountCode="1.1.4" glResourceTypeId="MONEY" accountName="Fixtures And Fittings" description="Fixtures And Fittings" Balance="Dr" />
+<GlAccount glAccountId="1.1.5" parentGlAccountId="1.1" accountCode="1.1.5" glResourceTypeId="MONEY" accountName="Exploration And Evaluation Assets" description="Exploration And Evaluation Assets" Balance="Dr" />
+<GlAccount glAccountId="1.1.6" parentGlAccountId="1.1" accountCode="1.1.6" glResourceTypeId="MONEY" accountName="Additional Property, Plant And Equipment" description="Additional Property, Plant And Equipment" Balance="Dr" />
+<GlAccount glAccountId="1.1.7" parentGlAccountId="1.1" accountCode="1.1.7" glResourceTypeId="MONEY" accountName="Construction In Progress" description="Construction In Progress" Balance="Dr" />
+<GlAccount glAccountId="1.2" parentGlAccountId="1" accountCode="1.2" glResourceTypeId="MONEY" accountName="Investment Property" description="Investment Property" Balance="Dr" />
+<GlAccount glAccountId="1.2.1" parentGlAccountId="1.2" accountCode="1.2.1" glResourceTypeId="MONEY" accountName="Investment Property Under Construction Or Development" description="Investment Property Under Construction Or Development" Balance="Dr" />
+<GlAccount glAccountId="1.2.2" parentGlAccountId="1.2" accountCode="1.2.2" glResourceTypeId="MONEY" accountName="Investment Property Completed" description="Investment Property Completed" Balance="Dr" />
+<GlAccount glAccountId="1.3" parentGlAccountId="1" accountCode="1.3" glResourceTypeId="MONEY" accountName="Intangible Assets" description="Intangible Assets" Balance="Dr" />
+<GlAccount glAccountId="1.3.1" parentGlAccountId="1.3" accountCode="1.3.1" glResourceTypeId="MONEY" accountName="Intangible Assets Other Than Goodwill" description="Intangible Assets Other Than Goodwill" Balance="Dr" />
+<GlAccount glAccountId="1.3.2" parentGlAccountId="1.3" accountCode="1.3.2" glResourceTypeId="MONEY" accountName="Goodwill" description="Goodwill" Balance="Dr" />
+<GlAccount glAccountId="1.4" parentGlAccountId="1" accountCode="1.4" glResourceTypeId="MONEY" accountName="Financial Assets" description="Financial Assets" Balance="Dr" />
+<GlAccount glAccountId="1.4.1" parentGlAccountId="1.4" accountCode="1.4.1" glResourceTypeId="MONEY" accountName="Group Companies (Intercompany Investments)" description="Group Companies (Intercompany Investments)" Balance="Dr" />
+<GlAccount glAccountId="1.4.2" parentGlAccountId="1.4" accountCode="1.4.2" glResourceTypeId="MONEY" accountName="Investments And Financial Instruments" description="Investments And Financial Instruments" Balance="Dr" />
+<GlAccount glAccountId="1.4.3" parentGlAccountId="1.4" accountCode="1.4.3" glResourceTypeId="MONEY" accountName="Derivative Financial Assets" description="Derivative Financial Assets" Balance="Dr" />
+<GlAccount glAccountId="1.4.4" parentGlAccountId="1.4" accountCode="1.4.4" glResourceTypeId="MONEY" accountName="Other Financial Assets" description="Other Financial Assets" Balance="Dr" />
+<GlAccount glAccountId="1.4.5" parentGlAccountId="1.4" accountCode="1.4.5" glResourceTypeId="MONEY" accountName="Allowance For Credit Losses (Aggregate)" description="Allowance For Credit Losses (Aggregate)" Balance="(Cr)" />
+<GlAccount glAccountId="1.4.6" parentGlAccountId="1.4" accountCode="1.4.6" glResourceTypeId="MONEY" accountName="Financial Assets Classified By Designation" description="Financial Assets Classified By Designation" Balance="Dr" />
+<GlAccount glAccountId="1.5" parentGlAccountId="1" accountCode="1.5" glResourceTypeId="MONEY" accountName="Biological Assets" description="Biological Assets" Balance="Dr" />
+<GlAccount glAccountId="1.5.1" parentGlAccountId="1.5" accountCode="1.5.1" glResourceTypeId="MONEY" accountName="Biological Assets At Cost" description="Biological Assets At Cost" Balance="Dr" />
+<GlAccount glAccountId="1.5.2" parentGlAccountId="1.5" accountCode="1.5.2" glResourceTypeId="MONEY" accountName="Biological Assets At Fair Value" description="Biological Assets At Fair Value" Balance="Dr" />
+<GlAccount glAccountId="1.6" parentGlAccountId="1" accountCode="1.6" glResourceTypeId="MONEY" accountName="Accrued And Other Assets" description="Accrued And Other Assets" Balance="Dr" />
+<GlAccount glAccountId="1.6.1" parentGlAccountId="1.6" accountCode="1.6.1" glResourceTypeId="MONEY" accountName="Prepayments And Other Current Assets" description="Prepayments And Other Current Assets" Balance="Dr" />
+<GlAccount glAccountId="1.6.2" parentGlAccountId="1.6" accountCode="1.6.2" glResourceTypeId="MONEY" accountName="Tax Related Receivables" description="Tax Related Receivables" Balance="Dr" />
+<GlAccount glAccountId="1.6.3" parentGlAccountId="1.6" accountCode="1.6.3" glResourceTypeId="MONEY" accountName="Service Providers" description="Service Providers" Balance="Dr" />
+<GlAccount glAccountId="1.6.4" parentGlAccountId="1.6" accountCode="1.6.4" glResourceTypeId="MONEY" accountName="Construction Contract Asset" description="Construction Contract Asset" Balance="Dr" />
+<GlAccount glAccountId="1.6.5" parentGlAccountId="1.6" accountCode="1.6.5" glResourceTypeId="MONEY" accountName="Set Up Costs" description="Set Up Costs" Balance="Dr" />
+<GlAccount glAccountId="1.6.6" parentGlAccountId="1.6" accountCode="1.6.6" glResourceTypeId="MONEY" accountName="Restricted Assets" description="Restricted Assets" Balance="Dr" />
+<GlAccount glAccountId="1.6.7" parentGlAccountId="1.6" accountCode="1.6.7" glResourceTypeId="MONEY" accountName="Current Investments Not Classified As Cash Equivalents" description="Current Investments Not Classified As Cash Equivalents" Balance="Dr" />
+<GlAccount glAccountId="1.6.8" parentGlAccountId="1.6" accountCode="1.6.8" glResourceTypeId="MONEY" accountName="Additional, Other And Miscellaneous Assets" description="Additional, Other And Miscellaneous Assets" Balance="Dr" />
+<GlAccount glAccountId="1.7" parentGlAccountId="1" accountCode="1.7" glResourceTypeId="MONEY" accountName="Inventories" description="Inventories" Balance="Dr" />
+<GlAccount glAccountId="1.7.1" parentGlAccountId="1.7" accountCode="1.7.1" glResourceTypeId="MONEY" accountName="Raw Materials and Production Supplies" description="Raw Materials and Production Supplies" Balance="Dr" />
+<GlAccount glAccountId="1.7.2" parentGlAccountId="1.7" accountCode="1.7.2" glResourceTypeId="MONEY" accountName="Merchandise" description="Merchandise" Balance="Dr" />
+<GlAccount glAccountId="1.7.3" parentGlAccountId="1.7" accountCode="1.7.3" glResourceTypeId="MONEY" accountName="Food and Beverage" description="Food and Beverage" Balance="Dr" />
+<GlAccount glAccountId="1.7.4" parentGlAccountId="1.7" accountCode="1.7.4" glResourceTypeId="MONEY" accountName="Agricultural Produce" description="Agricultural Produce" Balance="Dr" />
+<GlAccount glAccountId="1.7.5" parentGlAccountId="1.7" accountCode="1.7.5" glResourceTypeId="MONEY" accountName="Work In Progress" description="Work In Progress" Balance="Dr" />
+<GlAccount glAccountId="1.7.6" parentGlAccountId="1.7" accountCode="1.7.6" glResourceTypeId="MONEY" accountName="Materials and Supplies To Be Consumed In Production Process Or Rendering Services" description="Materials and Supplies To Be Consumed In Production Process Or Rendering Services" Balance="Dr" />
+<GlAccount glAccountId="1.7.7" parentGlAccountId="1.7" accountCode="1.7.7" glResourceTypeId="MONEY" accountName="Finished Goods" description="Finished Goods" Balance="Dr" />
+<GlAccount glAccountId="1.7.8" parentGlAccountId="1.7" accountCode="1.7.8" glResourceTypeId="MONEY" accountName="Packaging And Storage Materials" description="Packaging And Storage Materials" Balance="Dr" />
+<GlAccount glAccountId="1.7.9" parentGlAccountId="1.7" accountCode="1.7.9" glResourceTypeId="MONEY" accountName="Spare Parts" description="Spare Parts" Balance="Dr" />
+<GlAccount glAccountId="1.7.10" parentGlAccountId="1.7" accountCode="1.7.10" glResourceTypeId="MONEY" accountName="Fuel" description="Fuel" Balance="Dr" />
+<GlAccount glAccountId="1.7.11" parentGlAccountId="1.7" accountCode="1.7.11" glResourceTypeId="MONEY" accountName="Property Intended For Sale In Ordinary Course Of Business" description="Property Intended For Sale In Ordinary Course Of Business" Balance="Dr" />
+<GlAccount glAccountId="1.7.12" parentGlAccountId="1.7" accountCode="1.7.12" glResourceTypeId="MONEY" accountName="Inventories In Transit" description="Inventories In Transit" Balance="Dr" />
+<GlAccount glAccountId="1.7.13" parentGlAccountId="1.7" accountCode="1.7.13" glResourceTypeId="MONEY" accountName="Other Inventories" description="Other Inventories" Balance="Dr" />
+<GlAccount glAccountId="1.7.14" parentGlAccountId="1.7" accountCode="1.7.14" glResourceTypeId="MONEY" accountName="Inventories Pledged As Security For Liabilities" description="Inventories Pledged As Security For Liabilities" Balance="Dr" />
+<GlAccount glAccountId="1.7.15" parentGlAccountId="1.7" accountCode="1.7.15" glResourceTypeId="MONEY" accountName="Inventories At Fair Value Less Costs To Sell" description="Inventories At Fair Value Less Costs To Sell" Balance="Dr" />
+<GlAccount glAccountId="1.7.16" parentGlAccountId="1.7" accountCode="1.7.16" glResourceTypeId="MONEY" accountName="Acquisition In Progress" description="Acquisition In Progress" Balance="Dr" />
+<GlAccount glAccountId="1.7.17" parentGlAccountId="1.7" accountCode="1.7.17" glResourceTypeId="MONEY" accountName="Additional Inventory Items" description="Additional Inventory Items" Balance="Dr" />
+<GlAccount glAccountId="1.8" parentGlAccountId="1" accountCode="1.8" glResourceTypeId="MONEY" accountName="Receivables" description="Receivables" Balance="Dr" />
+<GlAccount glAccountId="1.8.1" parentGlAccountId="1.8" accountCode="1.8.1" glResourceTypeId="MONEY" accountName="Trade Receivables" description="Trade Receivables" Balance="Dr" />
+<GlAccount glAccountId="1.8.2" parentGlAccountId="1.8" accountCode="1.8.2" glResourceTypeId="MONEY" accountName="Contract Assets" description="Contract Assets" Balance="Dr" />
+<GlAccount glAccountId="1.8.3" parentGlAccountId="1.8" accountCode="1.8.3" glResourceTypeId="MONEY" accountName="Other Receivables" description="Other Receivables" Balance="Dr" />
+<GlAccount glAccountId="1.8.4" parentGlAccountId="1.8" accountCode="1.8.4" glResourceTypeId="MONEY" accountName="Adjustments" description="Adjustments" Balance="(Cr)" />
+<GlAccount glAccountId="1.9" parentGlAccountId="1" accountCode="1.9" glResourceTypeId="MONEY" accountName="Cash And Cash Equivalents" description="Cash And Cash Equivalents" Balance="Dr" />
+<GlAccount glAccountId="1.9.1" parentGlAccountId="1.9" accountCode="1.9.1" glResourceTypeId="MONEY" accountName="Cash" description="Cash" Balance="Dr" />
+<GlAccount glAccountId="1.9.2" parentGlAccountId="1.9" accountCode="1.9.2" glResourceTypeId="MONEY" accountName="Cash Equivalents" description="Cash Equivalents" Balance="Dr" />
+<GlAccount glAccountId="1.9.3" parentGlAccountId="1.9" accountCode="1.9.3" glResourceTypeId="MONEY" accountName="Short-Term Investments" description="Short-Term Investments" Balance="Dr" />
+<GlAccount glAccountId="1.9.4" parentGlAccountId="1.9" accountCode="1.9.4" glResourceTypeId="MONEY" accountName="Other Cash And Cash Equivalents" description="Other Cash And Cash Equivalents" Balance="Dr" />
+<GlAccount glAccountId="2" parentGlAccountId="" accountCode="2" glResourceTypeId="MONEY" accountName="Equity" description="Equity" Balance="(Cr)" />
+<GlAccount glAccountId="2.1" parentGlAccountId="2" accountCode="2.1" glResourceTypeId="MONEY" accountName="Issued Capital" description="Issued Capital" Balance="(Cr)" />
+<GlAccount glAccountId="2.1.1" parentGlAccountId="2.1" accountCode="2.1.1" glResourceTypeId="MONEY" accountName="Ordinary Shares" description="Ordinary Shares" Balance="(Cr)" />
+<GlAccount glAccountId="2.1.2" parentGlAccountId="2.1" accountCode="2.1.2" glResourceTypeId="MONEY" accountName="Preferred Shares" description="Preferred Shares" Balance="(Cr)" />
+<GlAccount glAccountId="2.1.3" parentGlAccountId="2.1" accountCode="2.1.3" glResourceTypeId="MONEY" accountName="Par Value Per Share" description="Par Value Per Share" Balance="(Cr)" />
+<GlAccount glAccountId="2.1.4" parentGlAccountId="2.1" accountCode="2.1.4" glResourceTypeId="MONEY" accountName="Share Premium" description="Share Premium" Balance="(Cr)" />
+<GlAccount glAccountId="2.1.5" parentGlAccountId="2.1" accountCode="2.1.5" glResourceTypeId="MONEY" accountName="Additional Paid In Capital" description="Additional Paid In Capital" Balance="(Cr)" />
+<GlAccount glAccountId="2.2" parentGlAccountId="2" accountCode="2.2" glResourceTypeId="MONEY" accountName="Retained Earnings" description="Retained Earnings" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="2.2.1" parentGlAccountId="2.2" accountCode="2.2.1" glResourceTypeId="MONEY" accountName="Current Year's Retained Profit (Loss)" description="Current Year's Retained Profit (Loss)" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="2.2.2" parentGlAccountId="2.2" accountCode="2.2.2" glResourceTypeId="MONEY" accountName="Prior Years' Retained Profit (Loss)" description="Prior Years' Retained Profit (Loss)" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="2.3" parentGlAccountId="2" accountCode="2.3" glResourceTypeId="MONEY" accountName="Other Reserves (Accumulated Other Comprehensive Income)" description="Other Reserves (Accumulated Other Comprehensive Income)" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="2.3.1" parentGlAccountId="2.3" accountCode="2.3.1" glResourceTypeId="MONEY" accountName="Revaluation Surplus" description="Revaluation Surplus" Balance="(Cr)" />
+<GlAccount glAccountId="2.3.2" parentGlAccountId="2.3" accountCode="2.3.2" glResourceTypeId="MONEY" accountName="Reserve Of Exchange Differences On Translation" description="Reserve Of Exchange Differences On Translation" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="2.3.3" parentGlAccountId="2.3" accountCode="2.3.3" glResourceTypeId="MONEY" accountName="Reserve Of Cash Flow Hedges" description="Reserve Of Cash Flow Hedges" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="2.3.4" parentGlAccountId="2.3" accountCode="2.3.4" glResourceTypeId="MONEY" accountName="Reserve Of Gains And Losses On Hedging Instruments That Hedge Investments In Equity Instru" description="Reserve Of Gains And Losses On Hedging Instruments That Hedge Investments In Equity Instru" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="2.3.5" parentGlAccountId="2.3" accountCode="2.3.5" glResourceTypeId="MONEY" accountName="Reserve Of Change In Value Of Time Value Of Options" description="Reserve Of Change In Value Of Time Value Of Options" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="2.3.6" parentGlAccountId="2.3" accountCode="2.3.6" glResourceTypeId="MONEY" accountName="Reserve Of Change In Value Of Forward Elements Of Forward Contracts" description="Reserve Of Change In Value Of Forward Elements Of Forward Contracts" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="2.3.7" parentGlAccountId="2.3" accountCode="2.3.7" glResourceTypeId="MONEY" accountName="Reserve Of Change In Value Of Foreign Currency Basis Spreads" description="Reserve Of Change In Value Of Foreign Currency Basis Spreads" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="2.3.8" parentGlAccountId="2.3" accountCode="2.3.8" glResourceTypeId="MONEY" accountName="Reserve Of Gains And Losses On Financial Assets Measured At Fair Value Through Other Compr" description="Reserve Of Gains And Losses On Financial Assets Measured At Fair Value Through Other Compr" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="2.3.9" parentGlAccountId="2.3" accountCode="2.3.9" glResourceTypeId="MONEY" accountName="Reserve Of Gains And Losses On Remeasuring Available-For-Sale Financial Assets" description="Reserve Of Gains And Losses On Remeasuring Available-For-Sale Financial Assets" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="2.3.10" parentGlAccountId="2.3" accountCode="2.3.10" glResourceTypeId="MONEY" accountName="Reserve Of Share-Based Payments" description="Reserve Of Share-Based Payments" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="2.3.11" parentGlAccountId="2.3" accountCode="2.3.11" glResourceTypeId="MONEY" accountName="Reserve Of Remeasurements Of Defined Benefit Plans" description="Reserve Of Remeasurements Of Defined Benefit Plans" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="2.3.12" parentGlAccountId="2.3" accountCode="2.3.12" glResourceTypeId="MONEY" accountName="Amount Recognised In Other Comprehensive Income And Accumulated In Equity Relating To Non-" description="Amount Recognised In Other Comprehensive Income And Accumulated In Equity Relating To Non-" Balance="(Cr)" />
+<GlAccount glAccountId="2.3.13" parentGlAccountId="2.3" accountCode="2.3.13" glResourceTypeId="MONEY" accountName="Reserve Of Gains And Losses From Investments In Equity Instruments" description="Reserve Of Gains And Losses From Investments In Equity Instruments" Balance="(Cr)" />
+<GlAccount glAccountId="2.3.14" parentGlAccountId="2.3" accountCode="2.3.14" glResourceTypeId="MONEY" accountName="Reserve Of Change In Fair Value Of Financial Liability Attributable To Change In Credit Ri" description="Reserve Of Change In Fair Value Of Financial Liability Attributable To Change In Credit Ri" Balance="(Cr)" />
+<GlAccount glAccountId="2.3.15" parentGlAccountId="2.3" accountCode="2.3.15" glResourceTypeId="MONEY" accountName="Reserve For Catastrophe" description="Reserve For Catastrophe" Balance="(Cr)" />
+<GlAccount glAccountId="2.3.16" parentGlAccountId="2.3" accountCode="2.3.16" glResourceTypeId="MONEY" accountName="Reserve For Equalisation" description="Reserve For Equalisation" Balance="(Cr)" />
+<GlAccount glAccountId="2.3.17" parentGlAccountId="2.3" accountCode="2.3.17" glResourceTypeId="MONEY" accountName="Reserve Of Discretionary Participation Features" description="Reserve Of Discretionary Participation Features" Balance="(Cr)" />
+<GlAccount glAccountId="2.3.18" parentGlAccountId="2.3" accountCode="2.3.18" glResourceTypeId="MONEY" accountName="Reserve Of Equity Component Of Convertible Instruments" description="Reserve Of Equity Component Of Convertible Instruments" Balance="(Cr)" />
+<GlAccount glAccountId="2.3.19" parentGlAccountId="2.3" accountCode="2.3.19" glResourceTypeId="MONEY" accountName="Capital Redemption Reserve" description="Capital Redemption Reserve" Balance="(Cr)" />
+<GlAccount glAccountId="2.3.20" parentGlAccountId="2.3" accountCode="2.3.20" glResourceTypeId="MONEY" accountName="Merger Reserve" description="Merger Reserve" Balance="(Cr)" />
+<GlAccount glAccountId="2.3.21" parentGlAccountId="2.3" accountCode="2.3.21" glResourceTypeId="MONEY" accountName="Statutory Reserve" description="Statutory Reserve" Balance="(Cr)" />
+<GlAccount glAccountId="2.4" parentGlAccountId="2" accountCode="2.4" glResourceTypeId="MONEY" accountName="Other Equity" description="Other Equity" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="2.4.1" parentGlAccountId="2.4" accountCode="2.4.1" glResourceTypeId="MONEY" accountName="Other Equity Interest" description="Other Equity Interest" Balance="(Cr)" />
+<GlAccount glAccountId="2.4.2" parentGlAccountId="2.4" accountCode="2.4.2" glResourceTypeId="MONEY" accountName="Capital Reserve" description="Capital Reserve" Balance="(Cr)" />
+<GlAccount glAccountId="2.4.3" parentGlAccountId="2.4" accountCode="2.4.3" glResourceTypeId="MONEY" accountName="Receivable For Shares (Share Subscribed But Unissued)" description="Receivable For Shares (Share Subscribed But Unissued)" Balance="Dr" />
+<GlAccount glAccountId="2.4.4" parentGlAccountId="2.4" accountCode="2.4.4" glResourceTypeId="MONEY" accountName="Treasury Shares" description="Treasury Shares" Balance="Dr" />
+<GlAccount glAccountId="2.4.5" parentGlAccountId="2.4" accountCode="2.4.5" glResourceTypeId="MONEY" accountName="Controlling Interest" description="Controlling Interest" Balance="(Cr)" />
+<GlAccount glAccountId="2.4.6" parentGlAccountId="2.4" accountCode="2.4.6" glResourceTypeId="MONEY" accountName="Non-Controlling Interest" description="Non-Controlling Interest" Balance="(Cr)" />
+<GlAccount glAccountId="3" parentGlAccountId="" accountCode="3" glResourceTypeId="MONEY" accountName="Liabilities" description="Liabilities" Balance="(Cr)" />
+<GlAccount glAccountId="3.1" parentGlAccountId="3" accountCode="3.1" glResourceTypeId="MONEY" accountName="Borrowings" description="Borrowings" Balance="(Cr)" />
+<GlAccount glAccountId="3.1.1" parentGlAccountId="3.1" accountCode="3.1.1" glResourceTypeId="MONEY" accountName="Borrowings (By Type)" description="Borrowings (By Type)" Balance="(Cr)" />
+<GlAccount glAccountId="3.1.2" parentGlAccountId="3.1" accountCode="3.1.2" glResourceTypeId="MONEY" accountName="Financial Liabilities (By Designation)" description="Financial Liabilities (By Designation)" Balance="(Cr)" />
+<GlAccount glAccountId="3.2" parentGlAccountId="3" accountCode="3.2" glResourceTypeId="MONEY" accountName="Provisions" description="Provisions" Balance="(Cr)" />
+<GlAccount glAccountId="3.2.1" parentGlAccountId="3.2" accountCode="3.2.1" glResourceTypeId="MONEY" accountName="Employee Benefits" description="Employee Benefits" Balance="(Cr)" />
+<GlAccount glAccountId="3.2.2" parentGlAccountId="3.2" accountCode="3.2.2" glResourceTypeId="MONEY" accountName="Warranties" description="Warranties" Balance="(Cr)" />
+<GlAccount glAccountId="3.2.3" parentGlAccountId="3.2" accountCode="3.2.3" glResourceTypeId="MONEY" accountName="Refunds" description="Refunds" Balance="(Cr)" />
+<GlAccount glAccountId="3.2.4" parentGlAccountId="3.2" accountCode="3.2.4" glResourceTypeId="MONEY" accountName="Decommissioning, Restoration And Rehabilitation" description="Decommissioning, Restoration And Rehabilitation" Balance="(Cr)" />
+<GlAccount glAccountId="3.2.5" parentGlAccountId="3.2" accountCode="3.2.5" glResourceTypeId="MONEY" accountName="Restructuring" description="Restructuring" Balance="(Cr)" />
+<GlAccount glAccountId="3.2.6" parentGlAccountId="3.2" accountCode="3.2.6" glResourceTypeId="MONEY" accountName="Onerous Contracts" description="Onerous Contracts" Balance="(Cr)" />
+<GlAccount glAccountId="3.2.7" parentGlAccountId="3.2" accountCode="3.2.7" glResourceTypeId="MONEY" accountName="Legal Proceedings" description="Legal Proceedings" Balance="(Cr)" />
+<GlAccount glAccountId="3.2.8" parentGlAccountId="3.2" accountCode="3.2.8" glResourceTypeId="MONEY" accountName="Business Combinations" description="Business Combinations" Balance="(Cr)" />
+<GlAccount glAccountId="3.2.9" parentGlAccountId="3.2" accountCode="3.2.9" glResourceTypeId="MONEY" accountName="Liabilities Included In Disposal Groups" description="Liabilities Included In Disposal Groups" Balance="(Cr)" />
+<GlAccount glAccountId="3.2.10" parentGlAccountId="3.2" accountCode="3.2.10" glResourceTypeId="MONEY" accountName="Other Provisions" description="Other Provisions" Balance="(Cr)" />
+<GlAccount glAccountId="3.2.11" parentGlAccountId="3.2" accountCode="3.2.11" glResourceTypeId="MONEY" accountName="Miscellaneous Other Provisions" description="Miscellaneous Other Provisions" Balance="(Cr)" />
+<GlAccount glAccountId="3.3" parentGlAccountId="3" accountCode="3.3" glResourceTypeId="MONEY" accountName="Trade And Other Payables" description="Trade And Other Payables" Balance="(Cr)" />
+<GlAccount glAccountId="3.3.1" parentGlAccountId="3.3" accountCode="3.3.1" glResourceTypeId="MONEY" accountName="Trade Payables" description="Trade Payables" Balance="(Cr)" />
+<GlAccount glAccountId="3.3.2" parentGlAccountId="3.3" accountCode="3.3.2" glResourceTypeId="MONEY" accountName="Contract Liabilities" description="Contract Liabilities" Balance="(Cr)" />
+<GlAccount glAccountId="3.3.3" parentGlAccountId="3.3" accountCode="3.3.3" glResourceTypeId="MONEY" accountName="Related Party Payables" description="Related Party Payables" Balance="(Cr)" />
+<GlAccount glAccountId="3.3.4" parentGlAccountId="3.3" accountCode="3.3.4" glResourceTypeId="MONEY" accountName="Retention Payables" description="Retention Payables" Balance="(Cr)" />
+<GlAccount glAccountId="3.3.5" parentGlAccountId="3.3" accountCode="3.3.5" glResourceTypeId="MONEY" accountName="Adjustments" description="Adjustments" Balance="Dr" />
+<GlAccount glAccountId="3.4" parentGlAccountId="3" accountCode="3.4" glResourceTypeId="MONEY" accountName="Accrued, Deferred And Other Liabilities" description="Accrued, Deferred And Other Liabilities" Balance="(Cr)" />
+<GlAccount glAccountId="3.4.1" parentGlAccountId="3.4" accountCode="3.4.1" glResourceTypeId="MONEY" accountName="Accrued Liabilities" description="Accrued Liabilities" Balance="(Cr)" />
+<GlAccount glAccountId="3.4.2" parentGlAccountId="3.4" accountCode="3.4.2" glResourceTypeId="MONEY" accountName="Accrued Expenses And Other Liabilities" description="Accrued Expenses And Other Liabilities" Balance="(Cr)" />
+<GlAccount glAccountId="3.4.3" parentGlAccountId="3.4" accountCode="3.4.3" glResourceTypeId="MONEY" accountName="Dividend Payables" description="Dividend Payables" Balance="(Cr)" />
+<GlAccount glAccountId="3.4.4" parentGlAccountId="3.4" accountCode="3.4.4" glResourceTypeId="MONEY" accountName="Interest Payable" description="Interest Payable" Balance="(Cr)" />
+<GlAccount glAccountId="3.4.5" parentGlAccountId="3.4" accountCode="3.4.5" glResourceTypeId="MONEY" accountName="Deferred Income, Unearned Revenue" description="Deferred Income, Unearned Revenue" Balance="(Cr)" />
+<GlAccount glAccountId="3.4.6" parentGlAccountId="3.4" accountCode="3.4.6" glResourceTypeId="MONEY" accountName="Advances" description="Advances" Balance="(Cr)" />
+<GlAccount glAccountId="3.4.7" parentGlAccountId="3.4" accountCode="3.4.7" glResourceTypeId="MONEY" accountName="Construction Contract Liability" description="Construction Contract Liability" Balance="(Cr)" />
+<GlAccount glAccountId="3.4.8" parentGlAccountId="3.4" accountCode="3.4.8" glResourceTypeId="MONEY" accountName="Other Payables" description="Other Payables" Balance="(Cr)" />
+<GlAccount glAccountId="3.5" parentGlAccountId="3" accountCode="3.5" glResourceTypeId="MONEY" accountName="Tax Liabilities" description="Tax Liabilities" Balance="(Cr)" />
+<GlAccount glAccountId="3.5.1" parentGlAccountId="3.5" accountCode="3.5.1" glResourceTypeId="MONEY" accountName="Current Tax Liabilities" description="Current Tax Liabilities" Balance="(Cr)" />
+<GlAccount glAccountId="3.5.2" parentGlAccountId="3.5" accountCode="3.5.2" glResourceTypeId="MONEY" accountName="Deferred Tax Liabilities" description="Deferred Tax Liabilities" Balance="(Cr)" />
+<GlAccount glAccountId="3.6" parentGlAccountId="3" accountCode="3.6" glResourceTypeId="MONEY" accountName="Other And Miscellaneous Liabilities" description="Other And Miscellaneous Liabilities" Balance="(Cr)" />
+<GlAccount glAccountId="3.6.1" parentGlAccountId="3.6" accountCode="3.6.1" glResourceTypeId="MONEY" accountName="Finance Leases" description="Finance Leases" Balance="(Cr)" />
+<GlAccount glAccountId="3.6.2" parentGlAccountId="3.6" accountCode="3.6.2" glResourceTypeId="MONEY" accountName="Deposits" description="Deposits" Balance="(Cr)" />
+<GlAccount glAccountId="3.6.3" parentGlAccountId="3.6" accountCode="3.6.3" glResourceTypeId="MONEY" accountName="Derivative Financial Liabilities" description="Derivative Financial Liabilities" Balance="(Cr)" />
+<GlAccount glAccountId="3.6.4" parentGlAccountId="3.6" accountCode="3.6.4" glResourceTypeId="MONEY" accountName="Government Grant Obligations" description="Government Grant Obligations" Balance="(Cr)" />
+<GlAccount glAccountId="3.6.5" parentGlAccountId="3.6" accountCode="3.6.5" glResourceTypeId="MONEY" accountName="Liabilities Due To Central Banks" description="Liabilities Due To Central Banks" Balance="(Cr)" />
+<GlAccount glAccountId="3.6.6" parentGlAccountId="3.6" accountCode="3.6.6" glResourceTypeId="MONEY" accountName="Subordinated Liabilities" description="Subordinated Liabilities" Balance="(Cr)" />
+<GlAccount glAccountId="3.6.7" parentGlAccountId="3.6" accountCode="3.6.7" glResourceTypeId="MONEY" accountName="Other Liabilities" description="Other Liabilities" Balance="(Cr)" />
+<GlAccount glAccountId="4" parentGlAccountId="" accountCode="4" glResourceTypeId="MONEY" accountName="Revenue" description="Revenue" Balance="(Cr)" />
+<GlAccount glAccountId="4.1" parentGlAccountId="4" accountCode="4.1" glResourceTypeId="MONEY" accountName="Goods" description="Goods" Balance="(Cr)" />
+<GlAccount glAccountId="4.1.1" parentGlAccountId="4.1" accountCode="4.1.1" glResourceTypeId="MONEY" accountName="Products" description="Products" Balance="(Cr)" />
+<GlAccount glAccountId="4.1.2" parentGlAccountId="4.1" accountCode="4.1.2" glResourceTypeId="MONEY" accountName="Merchandise" description="Merchandise" Balance="(Cr)" />
+<GlAccount glAccountId="4.1.3" parentGlAccountId="4.1" accountCode="4.1.3" glResourceTypeId="MONEY" accountName="Adjustments" description="Adjustments" Balance="Dr" />
+<GlAccount glAccountId="4.1.4" parentGlAccountId="4.1" accountCode="4.1.4" glResourceTypeId="MONEY" accountName="Specifically Itemized Goods Revenues" description="Specifically Itemized Goods Revenues" Balance="(Cr)" />
+<GlAccount glAccountId="4.2" parentGlAccountId="4" accountCode="4.2" glResourceTypeId="MONEY" accountName="Services" description="Services" Balance="(Cr)" />
+<GlAccount glAccountId="4.2.1" parentGlAccountId="4.2" accountCode="4.2.1" glResourceTypeId="MONEY" accountName="Specifically Itemized Service Revenues" description="Specifically Itemized Service Revenues" Balance="(Cr)" />
+<GlAccount glAccountId="4.3" parentGlAccountId="4" accountCode="4.3" glResourceTypeId="MONEY" accountName="Revenue From Contracts With Customers" description="Revenue From Contracts With Customers" Balance="(Cr)" />
+<GlAccount glAccountId="4.4" parentGlAccountId="4" accountCode="4.4" glResourceTypeId="MONEY" accountName="Revenue From Construction Contracts" description="Revenue From Construction Contracts" Balance="(Cr)" />
+<GlAccount glAccountId="4.5" parentGlAccountId="4" accountCode="4.5" glResourceTypeId="MONEY" accountName="Franchise Fee Income" description="Franchise Fee Income" Balance="(Cr)" />
+<GlAccount glAccountId="4.6" parentGlAccountId="4" accountCode="4.6" glResourceTypeId="MONEY" accountName="Barter Sales" description="Barter Sales" Balance="(Cr)" />
+<GlAccount glAccountId="4.6.1" parentGlAccountId="4.6" accountCode="4.6.1" glResourceTypeId="MONEY" accountName="Goods" description="Goods" Balance="(Cr)" />
+<GlAccount glAccountId="4.6.2" parentGlAccountId="4.6" accountCode="4.6.2" glResourceTypeId="MONEY" accountName="Services" description="Services" Balance="(Cr)" />
+<GlAccount glAccountId="4.6.3" parentGlAccountId="4.6" accountCode="4.6.3" glResourceTypeId="MONEY" accountName="Construction Contracts" description="Construction Contracts" Balance="(Cr)" />
+<GlAccount glAccountId="4.6.4" parentGlAccountId="4.6" accountCode="4.6.4" glResourceTypeId="MONEY" accountName="Royalties" description="Royalties" Balance="(Cr)" />
+<GlAccount glAccountId="4.6.5" parentGlAccountId="4.6" accountCode="4.6.5" glResourceTypeId="MONEY" accountName="Interest" description="Interest" Balance="(Cr)" />
+<GlAccount glAccountId="4.6.6" parentGlAccountId="4.6" accountCode="4.6.6" glResourceTypeId="MONEY" accountName="Dividends" description="Dividends" Balance="(Cr)" />
+<GlAccount glAccountId="4.6.7" parentGlAccountId="4.6" accountCode="4.6.7" glResourceTypeId="MONEY" accountName="Other Exchange Revenue" description="Other Exchange Revenue" Balance="(Cr)" />
+<GlAccount glAccountId="4.7" parentGlAccountId="4" accountCode="4.7" glResourceTypeId="MONEY" accountName="Dividends Classified As Operating Expense" description="Dividends Classified As Operating Expense" Balance="Dr" />
+<GlAccount glAccountId="4.8" parentGlAccountId="4" accountCode="4.8" glResourceTypeId="MONEY" accountName="By Nature Non-Revenue Income" description="By Nature Non-Revenue Income" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="4.8.1" parentGlAccountId="4.8" accountCode="4.8.1" glResourceTypeId="MONEY" accountName="Changes In Inventories" description="Changes In Inventories" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="4.8.2" parentGlAccountId="4.8" accountCode="4.8.2" glResourceTypeId="MONEY" accountName="Work Performed By Entity And Capitalised" description="Work Performed By Entity And Capitalised" Balance="(Cr)" />
+<GlAccount glAccountId="5" parentGlAccountId="" accountCode="5" glResourceTypeId="MONEY" accountName="Operating Expenses" description="Operating Expenses" Balance="Dr" />
+<GlAccount glAccountId="5.1" parentGlAccountId="5" accountCode="5.1" glResourceTypeId="MONEY" accountName="Expenses Classified By Nature" description="Expenses Classified By Nature" Balance="Dr" />
+<GlAccount glAccountId="5.1.1" parentGlAccountId="5.1" accountCode="5.1.1" glResourceTypeId="MONEY" accountName="Raw Materials And Consumables" description="Raw Materials And Consumables" Balance="Dr" />
+<GlAccount glAccountId="5.1.2" parentGlAccountId="5.1" accountCode="5.1.2" glResourceTypeId="MONEY" accountName="Merchandise" description="Merchandise" Balance="Dr" />
+<GlAccount glAccountId="5.1.3" parentGlAccountId="5.1" accountCode="5.1.3" glResourceTypeId="MONEY" accountName="Employee Benefits" description="Employee Benefits" Balance="Dr" />
+<GlAccount glAccountId="5.1.4" parentGlAccountId="5.1" accountCode="5.1.4" glResourceTypeId="MONEY" accountName="Services" description="Services" Balance="Dr" />
+<GlAccount glAccountId="5.1.5" parentGlAccountId="5.1" accountCode="5.1.5" glResourceTypeId="MONEY" accountName="Transportation Expense" description="Transportation Expense" Balance="Dr" />
+<GlAccount glAccountId="5.1.6" parentGlAccountId="5.1" accountCode="5.1.6" glResourceTypeId="MONEY" accountName="Depreciation And Amortisation" description="Depreciation And Amortisation" Balance="Dr" />
+<GlAccount glAccountId="5.1.7" parentGlAccountId="5.1" accountCode="5.1.7" glResourceTypeId="MONEY" accountName="Rental Expense" description="Rental Expense" Balance="Dr" />
+<GlAccount glAccountId="5.1.8" parentGlAccountId="5.1" accountCode="5.1.8" glResourceTypeId="MONEY" accountName="Tax Other Than Income" description="Tax Other Than Income" Balance="Dr" />
+<GlAccount glAccountId="5.2" parentGlAccountId="5" accountCode="5.2" glResourceTypeId="MONEY" accountName="Expenses Classified By Function" description="Expenses Classified By Function" Balance="Dr" />
+<GlAccount glAccountId="5.2.1" parentGlAccountId="5.2" accountCode="5.2.1" glResourceTypeId="MONEY" accountName="Cost Of Sales" description="Cost Of Sales" Balance="Dr" />
+<GlAccount glAccountId="5.2.2" parentGlAccountId="5.2" accountCode="5.2.2" glResourceTypeId="MONEY" accountName="Selling, General And Administrative" description="Selling, General And Administrative" Balance="Dr" />
+<GlAccount glAccountId="6" parentGlAccountId="" accountCode="6" glResourceTypeId="MONEY" accountName="Non-Operating Income And Expense (Peripheral Activities)" description="Non-Operating Income And Expense (Peripheral Activities)" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.1" parentGlAccountId="6" accountCode="6.1" glResourceTypeId="MONEY" accountName="Other Income" description="Other Income" Balance="(Cr)" />
+<GlAccount glAccountId="6.1.1" parentGlAccountId="6.1" accountCode="6.1.1" glResourceTypeId="MONEY" accountName="Finance Income" description="Finance Income" Balance="(Cr)" />
+<GlAccount glAccountId="6.1.2" parentGlAccountId="6.1" accountCode="6.1.2" glResourceTypeId="MONEY" accountName="Interest Income" description="Interest Income" Balance="(Cr)" />
+<GlAccount glAccountId="6.1.3" parentGlAccountId="6.1" accountCode="6.1.3" glResourceTypeId="MONEY" accountName="Dividends" description="Dividends" Balance="(Cr)" />
+<GlAccount glAccountId="6.1.4" parentGlAccountId="6.1" accountCode="6.1.4" glResourceTypeId="MONEY" accountName="Royalties" description="Royalties" Balance="(Cr)" />
+<GlAccount glAccountId="6.1.5" parentGlAccountId="6.1" accountCode="6.1.5" glResourceTypeId="MONEY" accountName="Licensees" description="Licensees" Balance="(Cr)" />
+<GlAccount glAccountId="6.1.6" parentGlAccountId="6.1" accountCode="6.1.6" glResourceTypeId="MONEY" accountName="Rental Income" description="Rental Income" Balance="(Cr)" />
+<GlAccount glAccountId="6.1.7" parentGlAccountId="6.1" accountCode="6.1.7" glResourceTypeId="MONEY" accountName="Contractual Fines And Penalties" description="Contractual Fines And Penalties" Balance="(Cr)" />
+<GlAccount glAccountId="6.1.8" parentGlAccountId="6.1" accountCode="6.1.8" glResourceTypeId="MONEY" accountName="Income From Government Grants" description="Income From Government Grants" Balance="(Cr)" />
+<GlAccount glAccountId="6.1.9" parentGlAccountId="6.1" accountCode="6.1.9" glResourceTypeId="MONEY" accountName="Property Service Charge Income" description="Property Service Charge Income" Balance="(Cr)" />
+<GlAccount glAccountId="6.1.10" parentGlAccountId="6.1" accountCode="6.1.10" glResourceTypeId="MONEY" accountName="Income From Reimbursements Under Insurance Policies" description="Income From Reimbursements Under Insurance Policies" Balance="(Cr)" />
+<GlAccount glAccountId="6.1.11" parentGlAccountId="6.1" accountCode="6.1.11" glResourceTypeId="MONEY" accountName="Other Revenue" description="Other Revenue" Balance="(Cr)" />
+<GlAccount glAccountId="6.2" parentGlAccountId="6" accountCode="6.2" glResourceTypeId="MONEY" accountName="Other Expenses" description="Other Expenses" Balance="Dr" />
+<GlAccount glAccountId="6.2.1" parentGlAccountId="6.2" accountCode="6.2.1" glResourceTypeId="MONEY" accountName="Finance Costs" description="Finance Costs" Balance="Dr" />
+<GlAccount glAccountId="6.2.2" parentGlAccountId="6.2" accountCode="6.2.2" glResourceTypeId="MONEY" accountName="Interest Expense" description="Interest Expense" Balance="Dr" />
+<GlAccount glAccountId="6.2.3" parentGlAccountId="6.2" accountCode="6.2.3" glResourceTypeId="MONEY" accountName="Property Service Charges" description="Property Service Charges" Balance="Dr" />
+<GlAccount glAccountId="6.2.4" parentGlAccountId="6.2" accountCode="6.2.4" glResourceTypeId="MONEY" accountName="Unwinding Discounts On Provisions" description="Unwinding Discounts On Provisions" Balance="Dr" />
+<GlAccount glAccountId="6.2.5" parentGlAccountId="6.2" accountCode="6.2.5" glResourceTypeId="MONEY" accountName="Donations And Subsidies" description="Donations And Subsidies" Balance="Dr" />
+<GlAccount glAccountId="6.2.6" parentGlAccountId="6.2" accountCode="6.2.6" glResourceTypeId="MONEY" accountName="Dividends Classified As Expense" description="Dividends Classified As Expense" Balance="Dr" />
+<GlAccount glAccountId="6.2.7" parentGlAccountId="6.2" accountCode="6.2.7" glResourceTypeId="MONEY" accountName="Other Expense By Nature" description="Other Expense By Nature" Balance="Dr" />
+<GlAccount glAccountId="6.2.8" parentGlAccountId="6.2" accountCode="6.2.8" glResourceTypeId="MONEY" accountName="Other Operating Expenses By Function" description="Other Operating Expenses By Function" Balance="Dr" />
+<GlAccount glAccountId="6.3" parentGlAccountId="6" accountCode="6.3" glResourceTypeId="MONEY" accountName="Gains And Losses" description="Gains And Losses" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.3.1" parentGlAccountId="6.3" accountCode="6.3.1" glResourceTypeId="MONEY" accountName="Foreign Exchange Gain (Loss)" description="Foreign Exchange Gain (Loss)" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.3.2" parentGlAccountId="6.3" accountCode="6.3.2" glResourceTypeId="MONEY" accountName="Impairment" description="Impairment" Balance="Dr" />
+<GlAccount glAccountId="6.3.3" parentGlAccountId="6.3" accountCode="6.3.3" glResourceTypeId="MONEY" accountName="Restructuring Activities" description="Restructuring Activities" Balance="Dr" />
+<GlAccount glAccountId="6.3.4" parentGlAccountId="6.3" accountCode="6.3.4" glResourceTypeId="MONEY" accountName="Disposals Of Non-Current Assets" description="Disposals Of Non-Current Assets" Balance="(Cr)" />
+<GlAccount glAccountId="6.3.5" parentGlAccountId="6.3" accountCode="6.3.5" glResourceTypeId="MONEY" accountName="Disposals Of Property, Plant And Equipment" description="Disposals Of Property, Plant And Equipment" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.3.6" parentGlAccountId="6.3" accountCode="6.3.6" glResourceTypeId="MONEY" accountName="Disposals Of Investment Properties" description="Disposals Of Investment Properties" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.3.7" parentGlAccountId="6.3" accountCode="6.3.7" glResourceTypeId="MONEY" accountName="Disposals Of Investments" description="Disposals Of Investments" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.3.8" parentGlAccountId="6.3" accountCode="6.3.8" glResourceTypeId="MONEY" accountName="Gains And Losses On Derivatives" description="Gains And Losses On Derivatives" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.3.9" parentGlAccountId="6.3" accountCode="6.3.9" glResourceTypeId="MONEY" accountName="Disposals Of Other Non-Current Assets" description="Disposals Of Other Non-Current Assets" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.3.10" parentGlAccountId="6.3" accountCode="6.3.10" glResourceTypeId="MONEY" accountName="Changes In Contingent Consideration" description="Changes In Contingent Consideration" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.3.11" parentGlAccountId="6.3" accountCode="6.3.11" glResourceTypeId="MONEY" accountName="Changes In Investment Property" description="Changes In Investment Property" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.3.12" parentGlAccountId="6.3" accountCode="6.3.12" glResourceTypeId="MONEY" accountName="Gain (Loss) On Liability Extinguishment" description="Gain (Loss) On Liability Extinguishment" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.3.13" parentGlAccountId="6.3" accountCode="6.3.13" glResourceTypeId="MONEY" accountName="Expense (Income) On Discontinued Operations" description="Expense (Income) On Discontinued Operations" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.3.14" parentGlAccountId="6.3" accountCode="6.3.14" glResourceTypeId="MONEY" accountName="Litigation Settlements" description="Litigation Settlements" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.3.15" parentGlAccountId="6.3" accountCode="6.3.15" glResourceTypeId="MONEY" accountName="Other Reversals Of Provisions" description="Other Reversals Of Provisions" Balance="(Cr)" />
+<GlAccount glAccountId="6.3.16" parentGlAccountId="6.3" accountCode="6.3.16" glResourceTypeId="MONEY" accountName="Gain (Loss) On Financial Assets Reclassified To Fair Value" description="Gain (Loss) On Financial Assets Reclassified To Fair Value" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.3.17" parentGlAccountId="6.3" accountCode="6.3.17" glResourceTypeId="MONEY" accountName="Cumulative Gain (Loss) From Reclassification To OCI" description="Cumulative Gain (Loss) From Reclassification To OCI" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.3.18" parentGlAccountId="6.3" accountCode="6.3.18" glResourceTypeId="MONEY" accountName="Gain (Loss) On Derecognition Of Amortised Cost Assets" description="Gain (Loss) On Derecognition Of Amortised Cost Assets" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.3.19" parentGlAccountId="6.3" accountCode="6.3.19" glResourceTypeId="MONEY" accountName="Gain (Loss) On Non-Cash Dividends" description="Gain (Loss) On Non-Cash Dividends" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.4" parentGlAccountId="6" accountCode="6.4" glResourceTypeId="MONEY" accountName="Other Comprehensive Income Reclassification Adjustments" description="Other Comprehensive Income Reclassification Adjustments" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.4.1" parentGlAccountId="6.4" accountCode="6.4.1" glResourceTypeId="MONEY" accountName="Exchange Differences On Translation" description="Exchange Differences On Translation" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.4.2" parentGlAccountId="6.4" accountCode="6.4.2" glResourceTypeId="MONEY" accountName="Available-For-Sale Financial Assets" description="Available-For-Sale Financial Assets" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.4.3" parentGlAccountId="6.4" accountCode="6.4.3" glResourceTypeId="MONEY" accountName="Cash Flow Hedges" description="Cash Flow Hedges" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.4.4" parentGlAccountId="6.4" accountCode="6.4.4" glResourceTypeId="MONEY" accountName="Hedges Of Net Investment In Foreign Operations" description="Hedges Of Net Investment In Foreign Operations" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.4.5" parentGlAccountId="6.4" accountCode="6.4.5" glResourceTypeId="MONEY" accountName="Change In Value Of Time Value Of Options" description="Change In Value Of Time Value Of Options" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.4.6" parentGlAccountId="6.4" accountCode="6.4.6" glResourceTypeId="MONEY" accountName="Change In Value Of Forward Elements Of Forward Contracts" description="Change In Value Of Forward Elements Of Forward Contracts" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.4.7" parentGlAccountId="6.4" accountCode="6.4.7" glResourceTypeId="MONEY" accountName="Change In Value Of Foreign Currency Basis Spreads" description="Change In Value Of Foreign Currency Basis Spreads" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.4.8" parentGlAccountId="6.4" accountCode="6.4.8" glResourceTypeId="MONEY" accountName="Financial Assets Measured At Fair Value Through Other Comprehensive Income" description="Financial Assets Measured At Fair Value Through Other Comprehensive Income" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.5" parentGlAccountId="6" accountCode="6.5" glResourceTypeId="MONEY" accountName="Group Companies" description="Group Companies" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.5.1" parentGlAccountId="6.5" accountCode="6.5.1" glResourceTypeId="MONEY" accountName="Equity Method Investments" description="Equity Method Investments" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="6.5.2" parentGlAccountId="6.5" accountCode="6.5.2" glResourceTypeId="MONEY" accountName="Subsidiaries, Jointly Controlled Entities And Associates" description="Subsidiaries, Jointly Controlled Entities And Associates" Balance="Dr / (Cr)" />
+<GlAccount glAccountId="7" parentGlAccountId="" accountCode="7" glResourceTypeId="MONEY" accountName="Income Tax" description="Income Tax" Balance="Dr" />
+<GlAccount glAccountId="7.1" parentGlAccountId="7" accountCode="7.1" glResourceTypeId="MONEY" accountName="Expense" description="Expense" Balance="Dr" />
+<GlAccount glAccountId="7.2" parentGlAccountId="7" accountCode="7.2" glResourceTypeId="MONEY" accountName="Benefit" description="Benefit" Balance="(Cr)" />
+</entity-engine-xml>
