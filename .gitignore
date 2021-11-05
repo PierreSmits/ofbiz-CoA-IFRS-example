@@ -1,0 +1,14 @@
+.project
+.pc
+.DS_Store
+desktop.ini
+.idea
+*.iml
+*.ipr
+*.iws
+*~
+*#
+.*.swp
+.*.swo
+*.patch
+
